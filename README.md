@@ -1,4 +1,4 @@
-# siRNA sequences
+# siRNA Library
 
 ## Introduction
 
