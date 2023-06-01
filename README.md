@@ -1,5 +1,5 @@
-# CIACC_CCDC34
+# siRNA sequences
 
 ## Introduction
 
-Hello!
+This is the table of siRNA sequences used in Figure 3A.
